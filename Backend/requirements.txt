@@ -1,0 +1,7 @@
+fastapi[standard]
+fastapi
+starlette
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
